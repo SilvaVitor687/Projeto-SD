@@ -1,0 +1,8 @@
+{
+    "name":"dev/crud",
+    "autoload":{
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

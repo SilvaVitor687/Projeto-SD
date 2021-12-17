@@ -1,0 +1,101 @@
+body {
+
+    background: rgb(70, 69, 69);
+}
+.jumbotron {
+
+   border-radius: 2px; 
+   padding:2px;
+   margin-bottom: 20px;
+   text-align:center;
+   color:bisque;
+   background: #03a9f4;
+   
+}
+
+.btn-sucess {
+
+   background: bisque; 
+   margin:20px;
+   padding-top: 1px;
+   font-weight:bold;
+}
+
+textarea {
+
+    width: 80%;
+    height: 250px;
+    margin-left: 10%;
+    border-radius: 5px;
+
+}
+
+.table {
+    width: 100%;
+    border-radius: 5px;
+}
+.table tr {
+
+    text-align: center;
+}
+
+h2 {
+
+    width: 40%; 
+    text-align:left;
+    text-decoration:underline;
+    margin-top:10px;
+    margin-bottom: 50px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+tr {
+
+    padding: 150px;
+    
+}
+
+td {
+
+    color: rgb(24, 7, 124);
+    font-weight: 700;
+    font-size: 15px;
+    
+}
+
+
+label {
+
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+hr {
+
+    color: bisque;
+    margin-top: 0px;
+    
+}
+
+select {
+
+    width: 150px;
+    border-radius: 5px ;
+}
+
+input {
+
+    width: 30%;
+    border-radius: 5px;
+}
+
+tbody {
+
+    padding: auto;
+    
+}
+
